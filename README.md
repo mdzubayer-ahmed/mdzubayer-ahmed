@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @mdzubayer-ahmed and welcome to my GitHub!
 
-- I'm a Geoscience Imaging Analyst at [Hibernia Research Group](https://www.linkedin.com/company/hibernia-enhanced-oil-recovery-group) and AI Trainer at [Outlier](https://outlier.ai/), actively seeking Summer-2025 opportunities in Software Engineering, Data Science, and Quality Assurance.
+- I'm a Geoscience Imaging Analyst at [Hibernia Research Group](https://www.mun.ca/engineering/research/eor/) and AI Trainer at [Outlier](https://outlier.ai/), actively seeking Summer-2025 opportunities in Software Engineering, Data Science, and Quality Assurance.
 - I like helping small businesses make their websites and technical support for FREE with a small team of Software Engineers at [Atlantic Developers](https://github.com/Atlantic-Developers)
 - I thrive on integrating technologies and exploring new ideas, and I'm open to collaborating on innovative projects.
 - Proficient in Python, Java, HTML, CSS, JavaScript, and C, with experience in machine learning, DICOM file analysis, and advanced imaging software.
