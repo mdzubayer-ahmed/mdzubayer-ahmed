@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m @mdzubayer-ahmed and welcome to my GitHub!
 
-- I'm a 3D Data Analyst at [Hibernia Research Group](https://www.hibernia.ca) and a Multimodal AI Trainer at [Outlier](https://outlier.ai/), actively looking for opportunities in Software Engineering, Data Science, and Software Quality Assurance.
+- I am a Android App Developer at BASR, and currently looking for Fall-2025 Work terms.
+- I worked as a 3D Data Analyst at [Hibernia Research Group](https://www.hibernia.ca) and a Multimodal AI Trainer at [Outlier](https://outlier.ai/).
+- I am interested in Smart Systems, Machine Learning, Algorithmic Techniques, Software Engineering, Data Science, and Software Quality Assurance.
 - I like helping small businesses make their websites and technical support for FREE with a small team of Software Engineers at [Atlantic Developers](https://github.com/Atlantic-Developers)
 - I love messing around with different technologies, in the hope of integrating them to get something better, and I'm open to collaborating on any interesting projects.
 - Proficient in Python, Java, HTML, CSS, JavaScript, and C, with experience in machine learning, DICOM file analysis, and advanced imaging software.
