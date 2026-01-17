@@ -2,7 +2,7 @@
 
 - I am a Comper Vision Intern at [DIAG Lab](https://diaglab.cs.mun.ca/) and Research Assistant at [MUN Robotics](https://bots.cs.mun.ca/)
 - I worked as a 3D Data Analyst at [Hibernia Research Group](https://www.hibernia.ca) and a Multimodal AI Trainer at [Outlier](https://outlier.ai/).
-- I am interested in Smart Systems, Machine Learning, Algorithmic Techniques, Software Engineering, Data Science, and Software Quality Assurance.
+- I love learning in diverse domains like: Computer Vision, Machine Learning, Algorithmic Techniques, Software Engineering, Data Science, and Software Quality Assurance.
 - I like helping small businesses make their websites and technical support for FREE with a small team of Software Engineers at [Atlantic Developers](https://github.com/Atlantic-Developers)
 - I love messing around with different technologies, in the hope of integrating them to get something better, and I'm open to collaborating on any interesting projects.
 - Proficient in Python, Java, HTML, CSS, JavaScript, and C, with experience in machine learning, DICOM file analysis, and advanced imaging software.
