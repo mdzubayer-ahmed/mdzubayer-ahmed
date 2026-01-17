@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @mdzubayer-ahmed and welcome to my GitHub!
 
-- I am a Android App Developer at BASR, and currently looking for Fall-2025 Work terms.
+- I am a Comper Vision Intern at [DIAG Lab](https://diaglab.cs.mun.ca/) and Research Assistant at [MUN Robotics](https://bots.cs.mun.ca/)
 - I worked as a 3D Data Analyst at [Hibernia Research Group](https://www.hibernia.ca) and a Multimodal AI Trainer at [Outlier](https://outlier.ai/).
 - I am interested in Smart Systems, Machine Learning, Algorithmic Techniques, Software Engineering, Data Science, and Software Quality Assurance.
 - I like helping small businesses make their websites and technical support for FREE with a small team of Software Engineers at [Atlantic Developers](https://github.com/Atlantic-Developers)
