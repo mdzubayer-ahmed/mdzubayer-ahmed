@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @mdzubayer-ahmed and welcome to my GitHub!
 
-- I am working with Dr. Masoudi on GIS Data Analysis, Dr. Popuri on Medical Image Analysis at [DIAG Lab](https://diaglab.cs.mun.ca/) and Dr. Vardy on Robotics Vision and Simulation at [Visor Lab](https://bots.cs.mun.ca/)
+- I am working with Dr. Masoudi on GIS Data Analysis, and Dr. Vardy on Swarm Robotics at [Visor Lab](https://bots.cs.mun.ca/)
 - Previously, I worked as a 3D Data Analyst at [Hibernia Research Group](https://www.hibernia.ca) and a Multimodal AI Trainer at [Outlier](https://outlier.ai/).
 - I love learning in diverse domains like: Computer Vision, Machine Learning, Algorithmic Techniques, Software Engineering, Data Science, and Software Quality Assurance.
 - I like helping small businesses make their websites and technical support for FREE with a small team of Software Engineers at [Atlantic Developers](https://github.com/Atlantic-Developers) (Currently, inactive, but please feel free to contact us)
